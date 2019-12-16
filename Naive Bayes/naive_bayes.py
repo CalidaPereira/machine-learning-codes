@@ -1,10 +1,9 @@
 
 """
-Machine Learning Programming Assignment 4
 
 Author: Calida Pereira 
 Date: 15/12/2019
-Matriculation No. : 229945
+
 
 Format to execute the program:
 
