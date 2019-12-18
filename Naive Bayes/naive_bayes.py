@@ -6,10 +6,7 @@ Date: 15/12/2019
 
 
 Format to execute the program:
-
-python calida_naive_bayes.py --data "D:\Masters\MachineLearning\Programming Assignments\Assignment 4\Example.tsv" --output "D:\Masters\MachineLearning\Programming Assignments\Assignment 4\exampleSolution.tsv"
-
-python calida_naive_bayes.py --data "D:\Masters\MachineLearning\Programming Assignments\Assignment 4\Gauss2.tsv" --output "D:\Masters\MachineLearning\Programming Assignments\Assignment 4\gaussSolution.tsv"
+python calida_naive_bayes.py --data "D:\exampleSolution.tsv"
 
 """
 
